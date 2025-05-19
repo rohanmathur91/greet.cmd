@@ -21,3 +21,7 @@ After that, you can run "greet" on any file or directory like:
 ```sh
 greet
 ```
+
+# Demo:
+
+![Image](https://github.com/user-attachments/assets/f7b3e477-b355-49ef-8bbb-a74f40cfdae3)
