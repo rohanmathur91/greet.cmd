@@ -1,0 +1,15 @@
+{
+  "name": "greet-cmd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "greet": "./bin/greet.js",
+    "off": "./bin/off.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
