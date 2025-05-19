@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
-    "greet": "./bin/greet.js",
-    "off": "./bin/off.js"
+    "off": "./bin/off.js",
+    "greet": "./bin/greet.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
