@@ -7,7 +7,7 @@ A custom cli command to greet!
 Clone the repo:
 
 ```sh
-npm link
+git clone https://github.com/rohanmathur91/greet.cmd.git
 ```
 
 Install locally:
