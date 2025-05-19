@@ -24,4 +24,4 @@ greet
 
 # Demo:
 
-![Image](https://github.com/user-attachments/assets/f7b3e477-b355-49ef-8bbb-a74f40cfdae3)
+https://github.com/user-attachments/assets/c56f6dc1-ae18-41bc-8350-d6d038982400
